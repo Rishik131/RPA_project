@@ -1,4 +1,22 @@
 .details{
     margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
     
+}
+.name{
+    display: inline-block;
+    font-weight: bold;
+}
+.address{
+    display: inline-block;
+}
+.rating{
+    display: inline-block;
+}
+.review{
+    display: inline-block;
+}
+.star{
+    
+    color: rgb(237, 209, 0);
 }
